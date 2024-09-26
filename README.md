@@ -2,6 +2,7 @@
 A comprehensive dataset for oslo bors up to 2023-11-30 in different timeframes.
 
 ![Gant CHART OF 5pg](assets/5PG_plot.png "Gant CHART OF 5PG")
+
 Gant charts of all stocks is available in assets/ folder.
 
 
