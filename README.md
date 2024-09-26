@@ -6,4 +6,4 @@ A comprehensive dataset for oslo bors up to 2023-11-30 in different timeframes.
 Gant charts of all stocks is available in assets/ folder.
 
 
-[**Full dataset available here.**](https://mega.nz/folder/jxIihTLB#yLZKExoNltQFfz7YpgBq3g)
+[**Full dataset available here.**](https://www.kaggle.com/snenyl)
